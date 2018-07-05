@@ -1,0 +1,21 @@
+* {
+	padding:0;
+	font-family : Arial,Helvetica,sans-serif;
+	font-size: 1rem;
+}
+
+nav.bg-light{
+	/*background-color: #407F7F !important;
+	*/
+
+}
+
+.navbar-light .navbar-brand,
+a{
+	/*color: #fff;
+	*/
+}
+
+#PG-Todo .card {
+	max-width:18rem;
+}
